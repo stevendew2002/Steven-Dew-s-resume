@@ -1,0 +1,132 @@
+html {
+  border-top: 30px solid #000000;
+  background: #ccffff;
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 350, from(#4dffff), to(#d6d6c2));
+}
+
+img {
+  border-radius: 50%;
+  max-width: 240px;
+  margin: 0 auto;
+  
+}
+
+body {
+  margin: 0 auto;
+  max-width: 1000px;
+  padding: 10px 10px;
+  font-size: 1.3em;
+  line-height: 1.6em;
+  font-family: "comic Sans", sans-serif;
+  color: #000000;
+  font-weight: 300;
+  border-right-width: medium 10px solid #000000;
+  border-left-width: medium 10px solid #000000;
+}
+.button {
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+div.img{
+  
+  ;
+}
+div.wrapper {
+  padding: 10px;
+  margins: 0 auto;
+  max-width: 1000px;
+}
+
+div.tab {
+  overflow: hidden;
+  border: 10px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+div.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+
+div.tab button:hover {
+  background-color: #ddd;
+}
+
+
+div.tab button.active {
+  background-color: #ccc;
+}
+
+
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 10px solid #ccc;
+  border-top: none;
+}
+
+
+h1 {
+  text-align: left;
+  font-size: 1.5em;
+  line-height: 0.5em;
+  color: #000000;
+}
+
+h2 {
+  text-align: left;
+  font-size: 1em;
+  line-height: 1em;
+  font-style: oblique;
+  color: #0000ff;
+}
+
+h3 {
+  text-align: left;
+  font-size: 1em;
+  line-height: 1em;
+  font-weight: bold;
+
+  color: #000000;
+}
+
+h4 {
+  text-align: left;
+  margin-top: 60px;
+  font-weight: 500;
+  color: #000000;
+  font-size: 25px;
+  padding: 15px;
+}
+
+html {
+  border-bottom: 20px solid black;
+}
+
+h4 {
+  text-align: left;
+  margin-top: 60px;
+  font-weight: 500;
+  color: #000000;
+}
+
+h5 {
+  text-align: left;
+  margin-top: 60px;
+  font-weight: 500;
+  color: #000000;
+}
